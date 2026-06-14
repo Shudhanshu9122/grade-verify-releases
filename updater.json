@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Version 1.1.2 update",
+  "version": "1.1.3",
+  "notes": "Bug fix: auto-update restart now works correctly",
   "pub_date": "2026-06-15T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTStYbjFRTSt4aDlYOFF3YjAyNjF6MDR3YWV4a1gyUzNBSldHeXplTEJtejNCQXlNWVMxd2ZYbDNnNHB2cU9xbDhGS01wOEhieVQ4SFRybnBJQ3Y3K2ljWGJ3V3Y0NWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDYwOTkxCWZpbGU6SUlJVEsgR3JhZGUgVmVyaWZpY2F0aW9uXzEuMS4yX3g2NC1zZXR1cC5uc2lzLnppcApPNU9tSUgyQnJQdTdSUjBqSXQ1TTFSbFZaNlRYUUlCS1VPcnpCYitUNnRkWW01ZVk1UHloUElHaXlYUlNZZTVJUEZqbGFKaTJzbFF3ek5wa2pody9Ddz09Cg==",
-      "url": "https://github.com/Shudhanshu9122/grade-verify-releases/releases/download/v1.1.2/IIITK.Grade.Verification_1.1.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTStYbjFRTSt4aDFoY1BMR2FIOE1Bc05NT1hzV2lYZUhLdWRpYWcydVFuRWhQN3RtMkROcnQ1NkU5eXFWQ25zSUo5QlNQZWVBMndhMHBNRnl0d0tKNjU4UVR2ZjVvQnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDYzNDMwCWZpbGU6SUlJVEsgR3JhZGUgVmVyaWZpY2F0aW9uXzEuMS4zX3g2NC1zZXR1cC5uc2lzLnppcApTTEo5R1pTSlBWUHRKcDlrTWdnVmRZcGNGRlZqaHRZckxkRmt4OThSaDJ5WkdqdkRsVlpHZThGWXZDUVY1Nmp0amdnUFVwVHJsSW9mVDBiSDdqQnNEdz09Cg==",
+      "url": "https://github.com/Shudhanshu9122/grade-verify-releases/releases/download/v1.1.3/IIITK.Grade.Verification_1.1.3_x64-setup.nsis.zip"
     }
   }
 }
