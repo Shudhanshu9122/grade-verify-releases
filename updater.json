@@ -4,8 +4,8 @@
   "pub_date": "2026-06-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "WILL_FILL_THIS_OUT_LATER",
-      "url": "https://github.com/Shudhanshu9122/grade-verify-releases/releases/download/v1.0.0/IIITK_Grade_Verify_1.0.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTStYbjFRTSt4aDlYOFF3YjAyNjF6MDR3YWV4a1gyUzNBSldHeXplTEJtejNCQXlNWVMxd2ZYbDNnNHB2cU9xbDhGS01wOEhieVQ4SFRybnBJQ3Y3K2ljWGJ3V3Y0NWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDYwOTkxCWZpbGU6SUlJVEsgR3JhZGUgVmVyaWZpY2F0aW9uXzEuMS4yX3g2NC1zZXR1cC5uc2lzLnppcApPNU9tSUgyQnJQdTdSUjBqSXQ1TTFSbFZaNlRYUUlCS1VPcnpCYitUNnRkWW01ZVk1UHloUElHaXlYUlNZZTVJUEZqbGFKaTJzbFF3ek5wa2pody9Ddz09Cg==",
+      "url": "https://github.com/Shudhanshu9122/grade-verify-releases/releases/download/v1.1.2/IIITK.Grade.Verification_1.1.2_x64-setup.nsis.zip"
     }
   }
 }
