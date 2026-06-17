@@ -1,10 +1,10 @@
 {
   "version": "1.1.12",
-  "notes": "Testing the automated updater flow.",
-  "pub_date": "2026-06-17T11:15:00Z",
+  "notes": "Testing the automated updater flow with correct ZIP compression.",
+  "pub_date": "2026-06-17T11:48:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTStYbjFRTSt4aDhacXhUZFFib2J3SmI3Z21VV1lnMGF4cENKcngwaHRMdXVUT2FTbUtGQmFRaHlGengzZlNoeE0xQjA2aWdyOFZMTmFwYzk5UCtUemF5Ni91NWNzRVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjc0OTkyCWZpbGU6SUlJVEsgR3JhZGUgVmVyaWZpY2F0aW9uXzEuMS4xMl94NjQtc2V0dXAubnNpcy56aXAKSEt2eVpWYXpuMnc4OE5FSFhFbFJOOHJGdzNmOXoyUGZnR2Qrb3NCcUtiMWp1YWVZMERva2FvcUxTR3l4UStrWkJON3UrUW5ZdG94T0ZwTE5OeUc4QUE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTStYbjFRTSt4aDc0eXIzMWplNW5YSWJwemNxNlYzNCszYVY1eGNsRXJqLzZkZVVrYi85RzAvS21qaGpvQURvaDRpTWVMR2ZqUUlwaW5GeHVVSm5uUm9rMWpvTndMUEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjc1Mjc1CWZpbGU6SUlJVEsgR3JhZGUgVmVyaWZpY2F0aW9uXzEuMS4xMl94NjQtc2V0dXAubnNpcy56aXAKdEIwWXhCbkpUYVloVEkwOW9GNXRZaDV2OW84ZzJLaHFrbklVaE9PSS9WRFBEUUJGN3U3d24rNTkyaW1FdCtZWStIalRvSFdQZkRrYTZwblhtcGVPRHc9PQo=",
       "url": "https://github.com/Shudhanshu9122/grade-verify-releases/releases/download/v1.1.12/IIITK.Grade.Verification_1.1.12_x64-setup.nsis.zip"
     }
   }
